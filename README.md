@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chew</h1>
-<h3 align="center">Data Science Engineer from Singapore.</h3>
-
-An engineer who is excited about what high-performance computation and data science can offer to the world, together with my experience in the engineering field from semiconductor manufacturing as an equipment engineer, I aspire to be a pragmatic engineer who solves real-world problems with technical and business considerations, that create products and services that's useful and add values!
-
+<h3 align="center">Data Engineer from Singapore.</h3>
 
 - 🔭 I've just built a [violence detection system with Deep Convolutional Neural Network](https://github.com/Chewgithub/Fightdet), check it out if you are interested!
 - ⚡ I am interested in the field of machine learning, deep learning, automation and Internet of Thing(IoT).
