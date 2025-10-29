@@ -2,7 +2,7 @@
 <h3 align="center">Process Data Engineer from Singapore.</h3>
 
 - 🔭 I've built a [violence detection system with Deep Convolutional Neural Network](https://github.com/Chewgithub/Fightdet), check it out if you are interested!
-- ⚡ I am interested in the field of machine learning, deep learning, automation and Internet of Thing(IoT).
+- ⚡ I am interested in the field of data engineering, machine learning, deep learning,and automation.
 - 📄 To know about my experiences checkout [https://www.linkedin.com/in/yong-chew/](https://www.linkedin.com/in/yong-chew/)
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Chewgithub?tab=repositories)
 - 🌱 I’m currently on course of learning more about [data analytics](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840627&hide_mobile_promo&gclid=Cj0KCQjw8O-VBhCpARIsACMvVLPdspC59HQv8LOEonFKmJ10JjDMMvI0QUXf9WArJEbWhlvogm23b5YaAoapEALw_wcB) offered by Google and diving deep into [linux system administration](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)
