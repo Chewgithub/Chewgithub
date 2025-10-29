@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chew</h1>
-<h3 align="center">Process Data Engineer from Singapore.</h3>
+<h3 align="center">Data Engineer from Singapore.</h3>
 
 - 🔭 I've built a [violence detection system with Deep Convolutional Neural Network](https://github.com/Chewgithub/Fightdet), check it out if you are interested!
 - ⚡ I am interested in the field of data engineering, machine learning, deep learning,and automation.
