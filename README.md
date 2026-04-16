@@ -1,18 +1,72 @@
 <h1 align="center">Hi 👋, I'm Chew</h1>
-<h3 align="center">Data Engineer from Singapore.</h3>
+<h3 align="center">Data Engineer · Singapore</h3>
 
-- 🔭 I've built a [violence detection system with Deep Convolutional Neural Network](https://github.com/Chewgithub/Fightdet), check it out if you are interested!
-- ⚡ I am interested in the field of data engineering, machine learning, deep learning,and automation.
-- 📄 To know about my experiences checkout [https://www.linkedin.com/in/yong-chew/](https://www.linkedin.com/in/yong-chew/)
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Chewgithub?tab=repositories)
-- 🌱 I’m currently on course of learning more about [data analytics](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840627&hide_mobile_promo&gclid=Cj0KCQjw8O-VBhCpARIsACMvVLPdspC59HQv8LOEonFKmJ10JjDMMvI0QUXf9WArJEbWhlvogm23b5YaAoapEALw_wcB) offered by Google and diving deep into [linux system administration](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)
-- 📫 Do Reach out to me on **jack950717@hotmail.com**
-- ⚡ Fun fact: **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yong-chew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yong chew" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/yong-chew" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yong--chew-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jack950717@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-jack950717@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Chewgithub?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Chewgithub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 About Me
+
+I'm a Data Engineer from Singapore passionate about building scalable data systems and intelligent applications. I enjoy working across the full data stack — from pipeline engineering to machine learning and deep learning.
+
+- 🔭 **Featured Project:** [Violence Detection System](https://github.com/Chewgithub/Fightdet) — real-time fight detection using Deep Convolutional Neural Networks
+- 🌱 **Currently Learning:** Time Series Analysis · Signal Processing · Segmentation
+- 💼 **Experience:** [LinkedIn Profile](https://www.linkedin.com/in/yong-chew/)
+- 📫 **Reach me at:** jack950717@hotmail.com
+- ⚡ **Fun fact:** I think I'm funny
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**Data & ML Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### [🥊 FightDet — Violence Detection System](https://github.com/Chewgithub/Fightdet)
+A real-time violence detection pipeline built with Deep Convolutional Neural Networks and OpenCV. Designed to identify physical altercations in video footage automatically.
+
+### [📈 Signal Segmentation](https://github.com/Chewgithub/signal_segmentation)
+Exploring time series analysis, signal processing, and segmentation techniques.
+
+---
+
+
+<p align="center">Thanks for visiting! Feel free to connect or reach out. 😄</p>
