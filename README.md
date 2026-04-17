@@ -63,7 +63,7 @@ I'm a Data Engineer from Singapore passionate about building scalable data syste
 ### [🥊 FightDet — Violence Detection System](https://github.com/Chewgithub/Fightdet)
 A real-time violence detection pipeline built with Deep Convolutional Neural Networks and OpenCV. Designed to identify physical altercations in video footage automatically.
 
-### [📈 Signal Segmentation](https://github.com/Chewgithub/signal_segmentation)
+### [📈 Change Detection]([https://github.com/Chewgithub/signal_segmentation](https://github.com/Chewgithub/change_detection))
 Exploring time series analysis, signal processing, and segmentation techniques.
 
 ---
