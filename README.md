@@ -20,7 +20,7 @@
 I'm a Data Engineer from Singapore passionate about building scalable data systems and intelligent applications. I enjoy working across the full data stack — from pipeline engineering to machine learning and deep learning.
 
 - 🔭 **Featured Project:** [Violence Detection System](https://github.com/Chewgithub/Fightdet) — real-time fight detection using Deep Convolutional Neural Networks
-- 🌱 **Currently Learning:** Time Series Analysis · Signal Processing · Segmentation
+- 🌱 **Currently Learning:** Change Detection · Time Series Analysis · Signal Processing · Segmentation
 - 💼 **Experience:** [LinkedIn Profile](https://www.linkedin.com/in/yong-chew/)
 - 📫 **Reach me at:** jack950717@hotmail.com
 - ⚡ **Fun fact:** I think I'm funny
