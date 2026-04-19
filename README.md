@@ -18,7 +18,7 @@
 
 I'm a Data Engineer from Singapore passionate about building scalable data systems and intelligent applications. I enjoy working across the full data stack — from pipeline engineering to machine learning and deep learning.
 
-> 💡 **My philosophy:** Technology only matters when it solves real problems. I build data systems that are not just technically sound — but ones that operations teams can actually act on, that reduce costs, and that answer the questions business stakeholders are already asking.
+> 💡 A great technical solution isn't measured by its complexity — it's measured by the problem it eliminates. Good engineering starts with understanding the business deeply enough to know which problems are worth solving, and ends with something that creates real, measurable impact. A principle worth reminding myself of, every single time.
 
 - 🔭 **Featured Projects:** See below
 - 🌱 **Currently Learning:** Change Detection · Time Series Analysis · Signal Processing · Segmentation
