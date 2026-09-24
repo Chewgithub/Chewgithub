@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chew</h1>
-<h3 align="center">Process Data Engineer · Singapore</h3>
+<h3 align="center">Data Engineer · Singapore</h3>
 <p align="center">
   <a href="https://linkedin.com/in/yong-chew" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-yong--chew-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +21,6 @@ I'm a Data Engineer from Singapore passionate about building scalable data syste
 > 💡 A great technical solution isn't measured by its complexity — it's measured by the problem it eliminates. Good engineering starts with understanding the business deeply enough to know which problems are worth solving, and ends with something that creates real, measurable impact. A principle worth reminding myself of, every single time.
 
 - 🔭 **Featured Projects:** See below
-- 🌱 **Currently Learning:** Change Detection · Time Series Analysis · Signal Processing · Segmentation
 - 💼 **Experience:** [LinkedIn Profile](https://www.linkedin.com/in/yong-chew/)
 - 📫 **Reach me at:** jack950717@hotmail.com
 - ⚡ **Fun fact:** I think I'm funny
@@ -29,24 +28,6 @@ I'm a Data Engineer from Singapore passionate about building scalable data syste
 ---
 
 ## 📌 Featured Projects
-
-### [🏭 Batch Deviation Analysis — Industrial Anomaly Detection](https://github.com/Chewgithub/anomaly_detection)
-
-> *From 30 confusing charts to one actionable heatmap.*
-
-**The Business Problem:** In modern industrial batch processing, a single production run can span dozens of process events, each monitored by 50–100 sensor tags. When a batch goes wrong, engineers traditionally sift through hundreds of overlapping time series plots — an unmanageable, error-prone process that slows down root cause analysis and costs production time.
-
-**The Solution:** A lightweight, interpretable deviation detection pipeline using **PELT (Pruned Exact Linear Time) changepoint segmentation**. Instead of collapsing signals into uninterpretable PCA components, the system preserves full traceability: every deviation is traced back to a specific tag, a specific event, and a specific aspect of its trend.
-
-**How it creates value:**
-- 🎯 **Pinpoints root causes** — not just "something is wrong", but *which parameter, in which phase, and how it deviated*
-- ⚡ **Reduces review time** — one heatmap replaces hundreds of overlay charts
-- 🔒 **Interpretable by design** — process experts can read and trust the output without a data science background
-- 🔁 **Reusable across batches** — calibrate once on a golden batch; apply forever
-
-**Tech:** Python · PELT (ruptures) · Pandas · Seaborn · Jupyter
-
----
 
 ### [🥊 FightDet — Violence Detection System](https://github.com/Chewgithub/Fightdet)
 
